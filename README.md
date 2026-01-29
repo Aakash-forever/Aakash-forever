@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Aakash</h1>
+<h3 align="center">Frontend Developer • Next.js • React • JavaScript</h3>
 
-<!--
-**Aakash-forever/Aakash-forever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building real-world frontend projects and learning by doing 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m a frontend developer who loves building interactive web experiences ✨  
+From responsive layouts to realtime features ⚡, I enjoy working on projects that  
+combine clean UI 🎨 with solid JavaScript logic 🧠.  
+Always learning 📚, always building 🚀.
+
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 Realtime Chat Application
+- Realtime messaging using **Socket.IO**
+- Private & group chat support
+- Built with **Next.js** and modern UI practices
+
+🔗 Repository:  
+https://github.com/Aakash-forever/Realtime-chat-app
+
+---
+
+### 👗 LuxeFashion
+- Modern and responsive fashion e-commerce UI
+- Built using **HTML, CSS, and JavaScript**
+- Focused on clean layout, product showcase, and UX
+
+🔗 Repository:  
+https://github.com/Aakash-forever/luxefashion
+
+🔗 Live link: 
+https://luxefashion-iota.vercel.app/
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/Aakash-forever">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aakash-sharma-7b6a60275/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Always learning • Always building ✨
+</p>
