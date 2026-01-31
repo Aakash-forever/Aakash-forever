@@ -58,6 +58,18 @@ https://luxefashion-iota.vercel.app/
 
 ---
 
+### ✅ Todo Application
+- Create, update, and delete tasks
+- Persistent data storage using **Local Storage**
+- Smooth and responsive UI built with **React**
+- Demonstrates core frontend concepts and state management
+
+🔗 Repository:  
+https://github.com/Aakash-forever/Todo-App
+
+---
+
+
 ## 🤝 Connect With Me
 
 <p>
