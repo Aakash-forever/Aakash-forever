@@ -60,6 +60,9 @@ https://luxefashion-iota.vercel.app/
 🔗 **Repository:**  
 https://github.com/Aakash-forever/weather-app
 
+🔗 **Live link:**  
+https://weather-dashboard-nextjs-eight.vercel.app/
+
 
 ---
 
