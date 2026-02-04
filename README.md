@@ -35,16 +35,6 @@ Always learning 📚, always building 🚀.
 
 ## 🚀 Featured Projects
 
-### 💬 Realtime Chat Application
-- Realtime messaging using **Socket.IO**
-- Private & group chat support
-- Built with **Next.js** and modern UI practices
-
-🔗 Repository:  
-https://github.com/Aakash-forever/Realtime-chat-app
-
----
-
 ### 👗 LuxeFashion
 - Modern and responsive fashion e-commerce UI
 - Built using **HTML, CSS, and JavaScript**
@@ -56,7 +46,35 @@ https://github.com/Aakash-forever/luxefashion
 🔗 Live link: 
 https://luxefashion-iota.vercel.app/
 
+
 ---
+
+
+### 🌦️ Weather App
+- Real-time weather dashboard using **Open-Meteo Weather & Geocoding APIs**
+- Hourly and 5-day forecasts with dynamic weather conditions
+- City-based search with accurate geocoding
+- Interactive map view and **Dark / Light mode**
+- Built with **Next.js**, **React**, and **Tailwind CSS**
+
+🔗 **Repository:**  
+https://github.com/Aakash-forever/weather-app
+
+
+---
+
+
+### 💬 Realtime Chat Application
+- Realtime messaging using **Socket.IO**
+- Private & group chat support
+- Built with **Next.js** and modern UI practices
+
+🔗 Repository:  
+https://github.com/Aakash-forever/Realtime-chat-app
+
+
+---
+
 
 ### ✅ Todo Application
 - Create, update, and delete tasks
@@ -66,6 +84,7 @@ https://luxefashion-iota.vercel.app/
 
 🔗 Repository:  
 https://github.com/Aakash-forever/Todo-App
+
 
 ---
 
