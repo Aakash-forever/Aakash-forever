@@ -61,7 +61,7 @@ https://luxefashion-iota.vercel.app/
 https://github.com/Aakash-forever/weather-app
 
 🔗 **Live link:**  
-https://weather-dashboard-nextjs-eight.vercel.app/
+nextjs-weather-dashboard-ashen.vercel.app
 
 
 ---
