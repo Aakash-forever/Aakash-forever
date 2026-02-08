@@ -37,7 +37,7 @@ Always learning 📚, always building 🚀.
 
 ### 👗 LuxeFashion
 - Modern and responsive fashion e-commerce UI
-- Built using **HTML, CSS, and JavaScript**
+- Built using **React, Next.js, Tailwind css**
 - Focused on clean layout, product showcase, and UX
 
 🔗 Repository:  
