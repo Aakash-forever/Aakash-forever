@@ -48,6 +48,19 @@ https://luxefashion-iota.vercel.app/
 
 
 ---
+### 🎬 Netflix Clone
+- On-demand movie and TV browsing interface inspired by real-world streaming platforms
+- Developed with **Next.js, React, and Tailwind CSS**
+- Includes dynamic rows, interactive previews, and smooth client-side navigation
+- Emphasizes performance, responsiveness, and a polished viewing experience
+
+🔗 Repository:  
+[https://github.com/Aakash-forever/Netflix-clone.git](https://github.com/Aakash-forever/Netflix-clone.git)
+
+🔗 Live link:  
+https://netflix-clone-jbgi.vercel.app/
+
+---
 
 
 ### 🌦️ Weather App
